@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(rgb(6, 49, 7), rgb(95, 90, 104));
+    height: 740px;
+    font: normal 17pt Arial;
+}
+ 
+header {
+    background-color: rgb(6, 49, 7);
+    color: beige;
+    height: 50px;
+    border-color: black;
+ 
+ 
+}
+ 
+footer {
+    color: beige;
+    text-align: center;
+    font-style: initial;
+}
+ 
+ 
+ 
+div.log {
+    text-align: center;
+    box-shadow: 3px 2px 20px black;
+    border-radius: 8px;
+    padding: 15px;
+    background-color: rgb(28, 13, 44);
+ 
+ 
+}
+ 
+
+ 
+.card {
+    box-shadow: 3px 2px 20px black;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: rgb(145, 132, 156);
+   
+ 
+}
+ 
+.esquerda {
+    float: left;
+ 
+}
+.direita {
+    float: right;
+ 
+}
